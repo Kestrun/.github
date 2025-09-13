@@ -9,9 +9,6 @@
 Welcome to the **Kestrun GitHub Organization**.  
 We build and maintain **Kestrun** — an open-source hybrid web framework that blends the speed of **ASP.NET Core (Kestrel)** with the flexibility of **PowerShell scripting**.
 
-Welcome to the **Kestrun GitHub Organization**.  
-We build and maintain **Kestrun** — an open-source hybrid web framework that blends the speed of **ASP.NET Core (Kestrel)** with the flexibility of **PowerShell scripting**.
-
 ---
 
 ## 🌍 What You’ll Find Here
